@@ -1,5 +1,7 @@
 # README — Simulador de Eletroposto Veicular em Assembly x86
 
+
+
 ## Visão Geral
 
 O **Simulador de Eletroposto Veicular em Assembly x86** é um projeto acadêmico desenvolvido para demonstrar como a linguagem Assembly pode ser utilizada em sistemas embarcados críticos, simulando o funcionamento básico de um eletroposto de carregamento veicular.
