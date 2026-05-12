@@ -127,7 +127,7 @@ A proposta deste projeto busca justamente demonstrar como sistemas embarcados ot
 
 ---
 
-# README — Simulador de Eletroposto Veicular em Assembly x86
+# Simulador de Eletroposto Veicular em Assembly
 
 ## Visão Geral
 
